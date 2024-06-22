@@ -8,6 +8,6 @@
 ## 4. Check laptop display
 - 1. Apply light pressure from the bottom of the display.
 - 2. windows+r  → type msinfo32 → System SKU → last number A original,,, R  Not original
-- indent rainbow
+- অন করার পর কয়েকবার ডিসল্পে ওঠা নামা করা লাগবে। কোনো সমস্যা হয় কিনা।
 - Background
 - Break Reminder
