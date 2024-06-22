@@ -1,9 +1,10 @@
 # Laptop-Check
 
 ## 1. Restart laptop or pc
-## 1. see battery percentage and time
-## 1. see battery percentage and time
-- AMOLED black theme
+## 2. see battery percentage and time
+## 3. Check laptop configuration and compare online
+## 4. Check laptop display
+- Apply light pressure from the bottom of the display.
 - indent-rainbow-blocks
 - indent rainbow
 - Background
